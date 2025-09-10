@@ -59,3 +59,15 @@ Build interactive dashboards using Power BI or Tableau.
 Apply Machine Learning models to predict pricing or ratings.
 
 Automate data scraping to keep dataset updated.
+
+
+
+🚀 How to View the Project
+
+Download the file mobile_analysis.html from this repository.
+
+Open the file in any modern browser (Chrome, Edge, Firefox, etc.).
+
+Explore the full analysis, tables, and interactive visualizations directly.
+
+✅ No need to install Python or Jupyter – everything runs in the browser!
